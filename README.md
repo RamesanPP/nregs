@@ -1,6 +1,6 @@
 # NREGS
 
-##A php-based web portal for **Government of India: National Rural Employment Guarantee Scheme** 
+## A php-based web portal for **Government of India: National Rural Employment Guarantee Scheme** 
 Developed as a final year degree project for the Kerala University.
 Uses Apache web server and MySQL as database.
 
