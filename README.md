@@ -8,4 +8,4 @@ How To Run:
 * Install XAMPP
 * Start Apache Server and MySQL
 * Create new database named **nregs** using 'localhost/phpmyadmin' and import tables from db folder(in-project)
-* now access the site using 'localhost:80' or 'localhost/nregs'
+* Now access the site using 'localhost:80' or 'localhost/nregs'
